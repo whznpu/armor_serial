@@ -1,0 +1,9 @@
+/home/whz/桌面/armor_serial/CMakeFiles/rebuild_cache.dir
+/home/whz/桌面/armor_serial/CMakeFiles/1.dir
+/home/whz/桌面/armor_serial/CMakeFiles/edit_cache.dir
+/home/whz/桌面/armor_serial/armorDetect/CMakeFiles/rebuild_cache.dir
+/home/whz/桌面/armor_serial/armorDetect/CMakeFiles/armorDetect.dir
+/home/whz/桌面/armor_serial/armorDetect/CMakeFiles/edit_cache.dir
+/home/whz/桌面/armor_serial/serial/CMakeFiles/rebuild_cache.dir
+/home/whz/桌面/armor_serial/serial/CMakeFiles/serial.dir
+/home/whz/桌面/armor_serial/serial/CMakeFiles/edit_cache.dir
