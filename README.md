@@ -5,4 +5,6 @@ final_tasks for wmj nwpu
 - 查看串口号
 - 然后在serial目录下面的serial.cpp`serial_port sp(iosev,"/dev/pts/n");`
   - n为你选择的串口号
+- 运行make生成可执行文件
+- 运行可执行文件得到结果
 
